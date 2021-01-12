@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.files {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  align-content: center;
+  background-color: lightgray;
+  padding: 0.5em;
+  margin: auto;
+  border-radius: 0.5em;
+  margin-top: 5em;
+}
+
+.files button {
+  background-color: whitesmoke;
+  border: 1px solid darkgrey;
+  border-radius: 1em;
+  padding: 0.5em;
+  font-size: 16px;
+}
+
+.files ul {
+  background-color: whitesmoke;
+}
+
+.files li {
+  border-bottom: 1px solid darkgray;
+}
