@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Folder-Contents-Toggle/static/css/main.927ea666.chunk.css",
+    "main.js": "/Folder-Contents-Toggle/static/js/main.30a374a6.chunk.js",
+    "main.js.map": "/Folder-Contents-Toggle/static/js/main.30a374a6.chunk.js.map",
+    "runtime-main.js": "/Folder-Contents-Toggle/static/js/runtime-main.6493d8ec.js",
+    "runtime-main.js.map": "/Folder-Contents-Toggle/static/js/runtime-main.6493d8ec.js.map",
+    "static/js/2.93278b8c.chunk.js": "/Folder-Contents-Toggle/static/js/2.93278b8c.chunk.js",
+    "static/js/2.93278b8c.chunk.js.map": "/Folder-Contents-Toggle/static/js/2.93278b8c.chunk.js.map",
+    "static/js/3.dfddb766.chunk.js": "/Folder-Contents-Toggle/static/js/3.dfddb766.chunk.js",
+    "static/js/3.dfddb766.chunk.js.map": "/Folder-Contents-Toggle/static/js/3.dfddb766.chunk.js.map",
+    "index.html": "/Folder-Contents-Toggle/index.html",
+    "static/css/main.927ea666.chunk.css.map": "/Folder-Contents-Toggle/static/css/main.927ea666.chunk.css.map",
+    "static/js/2.93278b8c.chunk.js.LICENSE.txt": "/Folder-Contents-Toggle/static/js/2.93278b8c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Folder-Contents-Toggle/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6493d8ec.js",
+    "static/js/2.93278b8c.chunk.js",
+    "static/css/main.927ea666.chunk.css",
+    "static/js/main.30a374a6.chunk.js"
+  ]
+}
